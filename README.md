@@ -11,7 +11,7 @@ Carrito de compras para TIENDA PALMIRA con validaciones de cantidad y stock en e
 ## Instalar y ejecutar
 
 ```bash
-git clone <enlace-del-repositorio>
+git clone https://github.com/K3V-S3/Serna_Kevin_CarritoReact.git
 cd Serna_Kevin_CarritoReact
 npm install
 npm run dev
